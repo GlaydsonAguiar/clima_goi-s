@@ -1,1 +1,1 @@
-# clima_goi-s
+# clima_goias
