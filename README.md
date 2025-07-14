@@ -49,7 +49,7 @@ Campos:
 
 ---
 
-## 📊 Dashboard (Exemplo)
+## 📊 Dashboard (Feitos no Excel)
 
 <img width="1355" height="545" alt="image" src="https://github.com/user-attachments/assets/fb5d6c17-4685-4b10-a626-ab32858c5910" />
 
